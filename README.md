@@ -18,6 +18,10 @@ Let's connect in the digital realm! Find me on:
 <a href="https://www.linkedin.com/in/katarzyna-baginska-0baa4a152/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
+<a href="https://twitter.com/coding_kate" target="_blank">
+  <img src="https://img.shields.io/badge/X-123456?style=for-the-badge&logo=x&logoColor=white" alt="X Badge">
+</a>
+
 
 ## Tech Stack:
 Behold the tools of my wizardry! 🧙‍♂️
