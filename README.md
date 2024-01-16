@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href=https://github.com/KatBaginska target="_blank">
+<a href="https://github.com/KatBaginska" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge">
 </a>
 <a href="https://www.linkedin.com/in/katarzyna-baginska-0baa4a152/" target="_blank">
